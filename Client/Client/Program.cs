@@ -18,6 +18,7 @@ namespace Client
         public static IPAddress myIP;
         static void Main(string[] args)
         {
+	//Hey look I made a change! Aint that special!
             Console.WriteLine("Connect to IP: ");
             string host = Console.ReadLine();
             listener = new Listener(host);
