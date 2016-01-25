@@ -43,3 +43,6 @@ C:\Users\Riggy\Desktop\Junk\Server\Server\bin\Debug\Server.pdb
 C:\Users\Riggy\Desktop\Junk\Server\Server\bin\Debug\Client.exe
 C:\Users\Riggy\Desktop\Junk\Server\Server\bin\Debug\Client.pdb
 C:\Users\Riggy\Desktop\Junk\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Riggy\Documents\GitHub\PacketClient\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Riggy\Documents\GitHub\PacketClient\Server\Server\obj\Debug\Server.exe
+C:\Users\Riggy\Documents\GitHub\PacketClient\Server\Server\obj\Debug\Server.pdb
