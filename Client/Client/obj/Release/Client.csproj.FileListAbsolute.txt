@@ -1,0 +1,5 @@
+C:\Users\James\Desktop\OnlineStuff\Client\Client\bin\Release\Client.exe.config
+C:\Users\James\Desktop\OnlineStuff\Client\Client\bin\Release\Client.exe
+C:\Users\James\Desktop\OnlineStuff\Client\Client\bin\Release\Client.pdb
+C:\Users\James\Desktop\OnlineStuff\Client\Client\obj\Release\Client.exe
+C:\Users\James\Desktop\OnlineStuff\Client\Client\obj\Release\Client.pdb
